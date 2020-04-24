@@ -1,0 +1,22 @@
+header {
+    background: #ebebeb;
+    border: 1px solid #aaa;
+    padding: 5px;
+}
+nav {
+    border: 1px solid #aaa;
+    background: #3050f1;
+    color: white;
+}
+nav li {
+    list-style: none;
+}
+nav li a {
+    color: white;
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    background: #ccc;
+    border: 1px solid royalblue;
+}
