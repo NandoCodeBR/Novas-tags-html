@@ -15,6 +15,17 @@ nav li a {
     color: white;
     text-decoration: none;
 }
+article {
+    background-color: sienna;
+    color: white;
+}
+section {
+    border: 1px dotted white;
+    
+}
+aside{
+    color: teal;
+}
 footer{
     text-align: center;
     background: #ccc;
